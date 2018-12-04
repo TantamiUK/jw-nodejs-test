@@ -12,7 +12,7 @@ var pi = 3.142;
 //module.exports.adder = adder;
 //module.exports.pi = pi;
 
-module.exports ={
+module.exports = {
     counter: counter,
     adder: adder,
     pi: pi
